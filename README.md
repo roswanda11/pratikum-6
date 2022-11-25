@@ -64,6 +64,7 @@ Apabila kita menginput 'k' maka program akan langsung berhenti
 
 ![Screenshot (159)](https://user-images.githubusercontent.com/115516632/203980054-31144439-127c-4b17-9c0a-678f231e4d1e.png)
 
+Jika kita menginputkan selain yang ada pada menu (l,t,u,h,c,k) maka kita akan diminta untuk memilih menu yang tersedia
 
 # Tampilan Program Saat Dijalankan
 
