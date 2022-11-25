@@ -90,14 +90,4 @@ Jika kita menginputkan selain yang ada pada menu (l,t,u,h,c,k) maka kita akan di
 
 # Hasil Flowchart
 
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (171)](https://user-images.githubusercontent.com/115516632/203995563-8d7b4a77-65f7-4e37-a341-aa2e357d72e1.png)
