@@ -4,6 +4,16 @@
 
 # Kelas : TI.22.A.3
 
+# Hasil Source Code
+
+![Screenshot (165)](https://user-images.githubusercontent.com/115516632/203989633-23dfdbaa-23de-446a-96a9-b6cdb8fcc09a.png)
+
+![Screenshot (167)](https://user-images.githubusercontent.com/115516632/203990495-b69f835b-43c0-4f86-832e-f1263e343f9e.png)
+
+![Screenshot (168)](https://user-images.githubusercontent.com/115516632/203990763-c03e5d82-c05c-41eb-8fbb-43bbf4ce5978.png)
+
+![Screenshot (169)](https://user-images.githubusercontent.com/115516632/203991075-354aebfa-a4ab-4be1-b703-0840d873d96a.png)
+
 # Penjelasan
 
 1. Pertama kita membuat dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan
@@ -53,6 +63,40 @@ Apabila kita menginput 'k' maka program akan langsung berhenti
 9. Membuat syntax untuk memilih apabila pilihan yang tidak ada di menu
 
 ![Screenshot (159)](https://user-images.githubusercontent.com/115516632/203980054-31144439-127c-4b17-9c0a-678f231e4d1e.png)
+
+
+# Tampilan Program Saat Dijalankan
+
+### Tambah Data + Lihat Data
+
+![Screenshot (160)](https://user-images.githubusercontent.com/115516632/203985966-0512f81c-e7e7-4de3-a8e7-b6e2f50e5f05.png)
+
+### Ubah Data + Lihat Data
+
+![Screenshot (161)](https://user-images.githubusercontent.com/115516632/203986798-9f619785-6f77-4ac7-b030-df4867b61faa.png)
+
+### Cari Data 
+
+![Screenshot (162)](https://user-images.githubusercontent.com/115516632/203987622-bd08e7c5-454c-49cc-9652-27253e6963c7.png)
+
+### Hapus Data + Lihat Data
+
+![Screenshot (163)](https://user-images.githubusercontent.com/115516632/203988579-e5f47bf1-57a0-405e-82dc-86b90d11705b.png)
+
+### Keluar
+
+![Screenshot (164)](https://user-images.githubusercontent.com/115516632/203988822-fc14e87e-de23-45af-ba98-0e05b5bf9edf.png)
+
+# Hasil Flowchart
+
+
+
+
+
+
+
+
+
 
 
 
