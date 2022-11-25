@@ -46,7 +46,7 @@ Apabila menginputkan 'c' maka kia akan diminta untuk memsukkan nama yang akan di
 
 8. Membuat syntax untuk menghentikan perulangan
 
-![Screenshot (158)](https://user-images.githubusercontent.com/115516632/203979490-7ab0aa37-6f54-4a7f-a8ce-f474bdd0d48b.png
+![Screenshot (158)](https://user-images.githubusercontent.com/115516632/203979490-7ab0aa37-6f54-4a7f-a8ce-f474bdd0d48b.png)
 
 Apabila kita menginput 'k' maka program akan langsung berhenti
 
