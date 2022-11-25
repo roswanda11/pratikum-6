@@ -8,15 +8,15 @@
 
 1. Pertama kita membuat dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan
 
-![Screenshot (142)](https://user-images.githubusercontent.com/115516632/203938581-3192f82d-f020-4115-a9ac-cc302ecabd7d.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/115516632/203974791-bfd61f63-ec19-4ab8-85be-ab0c0f455c19.png)
 
 2. Lalu kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program
 
-![Screenshot (143)](https://user-images.githubusercontent.com/115516632/203939721-d3ff7a51-c1e8-441d-8a88-801e6c53939a.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/115516632/203975145-1b99146e-56f3-4745-ad5c-c9ac92799834.png)
 
 3. Membuat syntax untuk melihat atau menampilkan data
 
-![Screenshot (144)](https://user-images.githubusercontent.com/115516632/203943795-638b3b6e-8fac-45a0-9ad1-25f1e60aa531.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/115516632/203975808-2fc5e12a-25af-4029-b1d7-64da8e7a5379.png)
 
 Apabila kita menginput 'l' maka sistem akan menampilkan data-data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA"
 
@@ -28,19 +28,31 @@ Apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa
 
 5. Membuat syntax untuk mengubah data
 
-![Screenshot (147)](https://user-images.githubusercontent.com/115516632/203946761-3077c9bf-6f84-4283-b7cb-c961db1eea96.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/115516632/203977602-4be52552-1166-46ab-9c21-df5edd21a9d3.png)
 
 Apabila kita menginput 'u' maka akan ada keterangan untuk mengubah data dan kita akan diminta untuk menginputkan nama yang mu diubah datanya, apabila nama tidak ada maka outputnya "Nama{} tidak ditemukan". Dimana {} adalah nama/data yang mau kita ubah
 
 6. Membuat syntax untuk menghapus data
 
-![Screenshot (148)](https://user-images.githubusercontent.com/115516632/203949531-22be5a7b-b814-4e3c-ad79-b00a984fb26e.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/115516632/203978182-344becbf-fa76-4179-a487-8efbd9ae723f.png)
 
 Apabila kita menginput 'h' maka kita akan diminta menginput nama yang akan dihapus. Jika nama ada di dalam dictionary, maka sistem akan menghapus keys/nama tersebut beserta valuesnya pada statement del x[nama]
 
+7. Membuat syntax untuk mencari data
 
+![Screenshot (156)](https://user-images.githubusercontent.com/115516632/203978869-b4f1a168-33c7-4cc9-a4cc-f22965b09ab9.png)
 
+Apabila menginputkan 'c' maka kia akan diminta untuk memsukkan nama yang akan dicari. Apabila nama yang dicari ada di dalam dictionary maka outputnya akan menampilkan data dari nama tersebut.
 
+8. Membuat syntax untuk menghentikan perulangan
+
+![Screenshot (158)](https://user-images.githubusercontent.com/115516632/203979490-7ab0aa37-6f54-4a7f-a8ce-f474bdd0d48b.png
+
+Apabila kita menginput 'k' maka program akan langsung berhenti
+
+9. Membuat syntax untuk memilih apabila pilihan yang tidak ada di menu
+
+![Screenshot (159)](https://user-images.githubusercontent.com/115516632/203980054-31144439-127c-4b17-9c0a-678f231e4d1e.png)
 
 
 
