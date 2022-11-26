@@ -50,7 +50,7 @@ Apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa
 
 ![Screenshot (154)](https://user-images.githubusercontent.com/115516632/203977602-4be52552-1166-46ab-9c21-df5edd21a9d3.png)
 
-Apabila kita menginput 'u' maka akan ada keterangan untuk mengubah data dan kita akan diminta untuk menginputkan nama yang mu diubah datanya, apabila nama tidak ada maka outputnya "Nama{} tidak ditemukan". Dimana {} adalah nama/data yang mau kita ubah
+Apabila kita menginput 'u' maka akan ada keterangan untuk mengubah data dan kita akan diminta untuk menginputkan nama yang mau diubah datanya, apabila nama tidak ada maka outputnya "Nama{} tidak ditemukan". Dimana {} adalah nama/data yang mau kita ubah
 
 6. Membuat syntax untuk menghapus data
 
