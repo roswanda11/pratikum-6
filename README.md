@@ -4,7 +4,17 @@
 
 # Kelas : TI.22.A.3
 
-# Hasil Source Code
+# Hasil Source Code Latihan1
+
+![Screenshot (172)](https://user-images.githubusercontent.com/115516632/204073057-f9e7c910-8dd0-40fe-a384-9fbb99a27402.png)
+
+![Screenshot (173)](https://user-images.githubusercontent.com/115516632/204073060-bf211caf-beb0-4191-bc8b-88ad0c35501b.png)
+
+# Hasil Output Latihan1
+
+![Screenshot (175)](https://user-images.githubusercontent.com/115516632/204073181-96fcc8a2-74e2-4ac7-a0ed-f85d22a72f16.png)
+
+# Hasil Source Code Praktikum 6
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/115516632/203989633-23dfdbaa-23de-446a-96a9-b6cdb8fcc09a.png)
 
@@ -14,7 +24,7 @@
 
 ![Screenshot (169)](https://user-images.githubusercontent.com/115516632/203991075-354aebfa-a4ab-4be1-b703-0840d873d96a.png)
 
-# Penjelasan
+# Penjelasan Praktikum 6
 
 1. Pertama kita membuat dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan
 
@@ -66,7 +76,7 @@ Apabila kita menginput 'k' maka program akan langsung berhenti
 
 Jika kita menginputkan selain yang ada pada menu (l,t,u,h,c,k) maka kita akan diminta untuk memilih menu yang tersedia
 
-# Tampilan Program Saat Dijalankan
+# Tampilan Program Saat Dijalankan Praktikum 6
 
 ### Tambah Data + Lihat Data
 
@@ -88,6 +98,6 @@ Jika kita menginputkan selain yang ada pada menu (l,t,u,h,c,k) maka kita akan di
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/115516632/203988822-fc14e87e-de23-45af-ba98-0e05b5bf9edf.png)
 
-# Hasil Flowchart
+# Hasil Flowchart Praktikum 6
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/115516632/203995563-8d7b4a77-65f7-4e37-a341-aa2e357d72e1.png)
